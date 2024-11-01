@@ -1,0 +1,11 @@
+.btn {
+  background-color: orange;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: beige;
+  font-weight: bold;
+  text-align: center; /* Aligne le texte au centre */
+  border: none; /* Supprime les bordures si elles sont ajoutées par défaut */
+  cursor: pointer; /* Change le curseur pour indiquer que c'est un bouton */
+  display: inline-block; /* Permet au bouton de se comporter correctement */
+}

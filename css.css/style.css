@@ -1,0 +1,23 @@
+/* Colors and fonts */
+body {
+  color: orange;
+  background-color: beige;
+  font-family: "Didot", serif; /* Utilisation d'une police didone, remplace "didones" par une police standard */
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1, h2, h3 {
+  font-family: "Helvetica", sans-serif; /* Helvetica pour tous les en-têtes */
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: inherit; /* Garder la couleur du texte de l'élément parent */
+  text-align: center;
+}
+
+
+
